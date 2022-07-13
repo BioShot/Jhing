@@ -11,7 +11,7 @@ A 64x Programing Language made in Java with love! This is also a solo/indie proj
    That 1 command is `print [text]`.
    
    # Print
-    The Print Statement does not require double quotes.
-    It has fetures like [username] and /n. `\n` Will not work. Inside, Use `/n`.
-    To include the users name please use the `[username]` statement inside of the script. You can find examples. In the example folder
-    If you are wanting the users age please use the `{ageScanner}` statement inside of the script.
+   The Print Statement does not require double quotes.
+   It has fetures like [username] and /n. `\n` Will not work. Inside, Use `/n`.
+   To include the users name please use the `[username]` statement inside of the script. You can find examples. In the example folder
+   If you are wanting the users age please use the `{ageScanner}` statement inside of the script.
